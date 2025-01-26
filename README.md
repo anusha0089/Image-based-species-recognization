@@ -1,0 +1,3 @@
+Image-Based Species Recognition is a project that uses machine learning techniques, specifically convolutional neural networks (CNN), to identify and classify species based on their images. The system processes input images, extracts unique features like shapes and patterns, and compares them to a trained dataset to predict the species accurately.
+
+The purpose of this project is to automate and simplify the process of species identification, which is particularly useful in areas like biodiversity research, wildlife conservation, and agriculture. In my implementation, I focused on preprocessing the data (like resizing and normalization), building the CNN model for classification, and improving accuracy through techniques like entropy analysis.
